@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "name": "name1",
+  "salary": 20000,
+  "expenses": [
+    {
+      "id": 1,
+      "type": "rent",
+      "amount": 10000
+    },
+    {
+      "id": 2,
+      "type": "misc",
+      "amount": 1000
+    }
+  ],
+  "savings": 5000
+}
